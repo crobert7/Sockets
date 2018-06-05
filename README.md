@@ -1,2 +1,3 @@
 # Chat-me-
-Chat room in python
+
+Repo created to emulate a chat room with socket programming sever - client 
