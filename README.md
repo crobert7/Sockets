@@ -1,3 +1,3 @@
-# Chat-me-
+# Sockets
 
-Repo created to emulate a chat room with socket programming sever - client 
+Repo created for socket programming sever - client 
