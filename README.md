@@ -1,3 +1,3 @@
 # Sockets
 
-Repo created for socket programming (sever - client) in C, Java & Python
+Repo created for socket programming (client - server) in C, Java & Python
